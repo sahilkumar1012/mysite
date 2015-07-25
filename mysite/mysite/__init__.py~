@@ -1,0 +1,2 @@
+improt pymysql
+pymysql.install_as_MySQLdb()
